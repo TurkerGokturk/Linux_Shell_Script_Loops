@@ -1,10 +1,10 @@
 # Hands-on Linux-08 : Shell Scripting/Loops
 
-Purpose of the this hands-on training is to teach the students how to use loops in shell.
+Purpose of the this hands-on training is to teach  how to use loops in shell.
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, you  will be able to;
 
 - explain loops in shell.
 
